@@ -7,7 +7,7 @@ require (
 	cosmossdk.io/math v1.5.0
 	github.com/cometbft/cometbft v0.38.17
 	github.com/cometbft/cometbft-db v0.14.1 // indirect
-	github.com/cosmos/cosmos-sdk v0.50.12
+	github.com/cosmos/cosmos-sdk v0.50.13
 	github.com/cosmos/gogoproto v1.7.0
 	github.com/cosmos/ics23/go v0.11.0
 	github.com/golang/mock v1.6.0
@@ -151,7 +151,7 @@ require (
 	cosmossdk.io/x/tx v0.13.7
 	cosmossdk.io/x/upgrade v0.1.4
 	github.com/cosmos/cosmos-db v1.1.1
-	github.com/cosmos/ibc-go/v10 v10.0.0
+	github.com/cosmos/ibc-go/v10 v10.1.0
 	github.com/informalsystems/itf-go v0.0.1
 	github.com/spf13/viper v1.19.0
 	golang.org/x/mod v0.23.0
